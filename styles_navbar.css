@@ -1,0 +1,44 @@
+
+footer {
+position: absolute;
+align-items: center;
+bottom: 0;
+font-family: monospace;
+}
+.navbar{
+    background-color: rgb(141, 167, 187);
+overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #224d68;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: monospace;
+    }
+  
+    .navbar a:hover {
+    background-color: #dcd0d0;
+    color: black;
+    }
+    .navbar a.active {
+    background-color: hsla(194, 32%, 54%, 0.982);
+    color: white;
+    }
+    img {
+        width: 700px;
+        height: 500px;
+      }
+      footer {
+        font-size: 20px;
+      }
+
+      html { 
+        height: 1000px;
+        scroll-behavior: smooth;
+       }
+      
+  

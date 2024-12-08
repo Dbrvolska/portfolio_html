@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(49, 72, 112);
+    font-size: large;
+    font-family: monospace;
+  
+}
+html {
+  scroll-behavior: smooth;
+}
+ 
+#blok1 {
+  height: 1000px;
+  background-color: hsl(218, 23%, 30%);
+}
+ 
+#blok2 {
+  height: 1000px;
+  background-color: rgb(50, 76, 94);
+}
+img{
+    width: 1000px;
+    height: 500px;
+}
